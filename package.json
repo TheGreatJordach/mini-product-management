@@ -1,8 +1,9 @@
 {
   "name": "products-mgt",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+   "repository": "TheGreatJordach/mini-product-management.git",
+  "description": "Mini type ORM project",
+  "author": "Jordach Makaya",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
