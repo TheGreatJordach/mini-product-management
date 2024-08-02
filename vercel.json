@@ -1,5 +1,6 @@
 {
   "version": 2,
+  "name": "backend-product-management",
   "builds": [
     {
       "src": "src/main.ts",
