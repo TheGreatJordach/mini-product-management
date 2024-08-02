@@ -23,8 +23,10 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 
-## Project overview 
-Deployment link : https://backend-product-management.vercel.app/
+## Deployment link
+### Project is deployed <a src="https://backend-product-management.vercel.app/">  here </a>
+
+## Code overview
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
 [![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
