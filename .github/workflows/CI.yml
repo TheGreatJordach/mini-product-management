@@ -13,19 +13,19 @@ jobs:
     runs-on: ubuntu-latest
 
     services:
-      postgres:
+      mysql:
         image: mysql:5.7
         ports:
           - 3306:3306
         env:
-          POSTGRES_DB: your_local_db_name
-          POSTGRES_USER: your_local_db_username
-          POSTGRES_PASSWORD: your_local_db_password
+          MYSQL_ROOT_PASSWORD: ${{ secrets.MYSQL_ROOT_PASSWORD }}
+          MYSQL_DATABASE: ${{ secrets.MYSQL_DATABASE }}
+
         options: >-
-          --health-cmd pg_isready
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
+          --health-cmd="mysqladmin ping --silent"
+          --health-interval=10s
+          --health-timeout=5s
+          --health-retries=5
 
     steps:
       - uses: actions/checkout@v3
