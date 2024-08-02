@@ -24,7 +24,7 @@
 
 
 ## Deployment link
-### Project is deployed <a src="https://backend-product-management.vercel.app/">  here </a>
+Project is deployed <a src="https://backend-product-management.vercel.app/">  here </a>
 
 ## Code overview
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)

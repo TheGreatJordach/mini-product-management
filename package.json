@@ -5,7 +5,7 @@
   "description": "Mini type ORM project",
   "author": "Jordach Makaya",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
