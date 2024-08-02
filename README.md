@@ -25,6 +25,16 @@
 
 ## Project overview 
 Deployment link : https://backend-product-management.vercel.app/
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=sqale_index)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=bugs)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=TheGreatJordach_mini-product-management&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=TheGreatJordach_mini-product-management)
+
 
 ## Description
 
